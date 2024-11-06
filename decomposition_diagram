@@ -1,0 +1,11 @@
+digraph "Декомпозиція" {
+	System [label="Система Курсів Валют"]
+	"Data Collection" [label="Модуль збору даних"]
+	Database [label="База даних (SQLite)"]
+	Analysis [label="Модуль аналізу даних"]
+	Visualization [label="Модуль візуалізації"]
+	System -> "Data Collection" [label="Збір даних з API НБУ"]
+	"Data Collection" -> Database [label="Збереження даних"]
+	Database -> Analysis [label="Обробка даних"]
+	Analysis -> Visualization [label="Побудова графіків"]
+}

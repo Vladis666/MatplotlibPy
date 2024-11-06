@@ -1,0 +1,46 @@
+Name:
+  John Parker
+
+Title:
+  Marketing Director, Online Fashion Retailer
+
+Age:
+  38
+
+Income:
+  $95K per year plus performance bonuses
+
+Education:
+  MBA in Marketing from NYU Stern School of Business
+
+Career Context:
+  Years in Marketing: 12
+  Years in eCommerce: 6
+  Responsibilities: ['Overseeing marketing strategies and campaigns', 'Focus on customer segmentation and personalized promotions', 'Reports directly to COO', 'Tracking KPIs such as CAC, ROAS, and LTV']
+
+Needs:
+  - Insights from customer data to optimize campaigns
+  - Advanced analytics for customer segmentation
+  - Understanding customer behavior through predictive modeling
+
+Motivations:
+  - Optimize marketing efforts and conversion rates
+  - Build a data-driven marketing department
+
+Fears:
+  - Losing market share due to ineffective marketing
+  - Missing trends or insights from customer data
+
+Purchasing Criteria:
+  - Data Accuracy
+  - Ease of Use
+  - Cost
+
+Behaviors:
+  - Uses platforms like Google Analytics and Facebook Ads Manager
+  - Collaborates with sales and product teams for feedback
+
+Goals:
+  - Improve customer loyalty and retention
+  - Maximize profitability by improving marketing strategies
+
